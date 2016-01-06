@@ -1,0 +1,107 @@
+/*!
+ * Flat UI Free v2.2.2 (http://designmodo.github.io/Flat-UI/)
+ * Copyright 2013-2014 Designmodo, Inc.
+ */
+
+ @font-face {
+ 	font-family:Lato;
+ 	font-style:normal;
+ 	font-weight:900;
+ 	src:url(../fonts/lato/lato-black.eot);
+ 	src:url(../fonts/lato/lato-black.eot?#iefix) 
+	format('embedded-opentype'),
+	url(../fonts/lato/lato-black.woff) 
+	format('woff'),
+	url(../fonts/lato/lato-black.ttf) 
+	format('truetype'),
+	url(../fonts/lato/lato-black.svg#latoblack) 
+	format('svg')
+}
+ 	
+ @font-face {
+ 	font-family:Lato;
+ 	font-style:normal;
+ 	font-weight:700;
+ 	src:url(../fonts/lato/lato-bold.eot);
+ 	src:url(../fonts/lato/lato-bold.eot?#iefix) format('embedded-opentype'),
+ 	url(../fonts/lato/lato-bold.woff) format('woff'),
+ 	url(../fonts/lato/lato-bold.ttf) format('truetype'),
+ 	url(../fonts/lato/lato-bold.svg#latobold) 
+	format('svg')}@font-face{font-family:Lato;
+	font-style:italic;font-weight:700;
+	src:url(../fonts/lato/lato-bolditalic.eot);
+	src:url(../fonts/lato/lato-bolditalic.eot?#iefix) format('embedded-opentype'),
+	url(../fonts/lato/lato-bolditalic.woff) format('woff'),
+	url(../fonts/lato/lato-bolditalic.ttf) format('truetype'),
+	url(../fonts/lato/lato-bolditalic.svg#latobold-italic) format('svg')
+}
+
+@font-face {
+	font-family:Lato;
+	font-style:italic;
+	font-weight:400;
+	src:url(../fonts/lato/lato-italic.eot);
+	src:url(../fonts/lato/lato-italic.eot?#iefix) format('embedded-opentype'),
+	url(../fonts/lato/lato-italic.woff) format('woff'),
+	url(../fonts/lato/lato-italic.ttf) format('truetype'),
+	url(../fonts/lato/lato-italic.svg#latoitalic) format('svg')
+}
+
+@font-face {
+	font-family:Lato;
+	font-style:normal;font-weight:300;
+	src:url(../fonts/lato/lato-light.eot);
+	src:url(../fonts/lato/lato-light.eot?#iefix) format('embedded-opentype'),
+	url(../fonts/lato/lato-light.woff) format('woff'),
+	url(../fonts/lato/lato-light.ttf) format('truetype'),
+	url(../fonts/lato/lato-light.svg#latolight) format('svg')
+}
+
+@font-face {
+	font-family:Lato;
+	font-style:normal;font-weight:400;
+	src:url(../fonts/lato/lato-regular.eot);
+	src:url(../fonts/lato/lato-regular.eot?#iefix) format('embedded-opentype'),
+	url(../fonts/lato/lato-regular.woff) format('woff'),
+	url(../fonts/lato/lato-regular.ttf) format('truetype'),
+	url(../fonts/lato/lato-regular.svg#latoregular) format('svg')
+}
+
+
+
+
+ body {
+ 	font-family:Lato,Helvetica,Arial,sans-serif;
+ 	font-size:12px;
+ 	line-height:1.72222;
+ 	color:#34495e;
+ 	background-color:#fff
+ }
+
+ a {
+ 	color:#2C9BFF;
+ 	text-decoration:none;
+ 	-webkit-transition:.25s;transition:.25s
+ }
+
+ a:hover 
+
+ a:focus {
+ 	color:#1D8DF2;
+ 	text-decoration:none
+ }
+
+ a:focus{outline:0}
+ 	.img-rounded{border-radius:6px}
+ 	.img-thumbnail{display:inline-block;max-width:100%;height:auto;padding:4px;line-height:1.72222;background-color:#fff;border:2px solid #bdc3c7;border-radius:6px;-webkit-transition:all .25s ease-in-out;transition:all .25s ease-in-out}
+ 	.img-comment{margin:24px 0;font-size:15px;font-style:italic;line-height:1.2}h1,h2,h3,h4,h5,h6,.h1,.h2,.h3,.h4,.h5,.h6{font-family:inherit;font-weight:700;line-height:1.1;color:inherit}
+ 		h1 small,h2 small,h3 small,h4 small,h5 small,h6 small,.h1 small,.h2 small,.h3 small,.h4 small,.h5 small,.h6 small{color:#e7e9ec}h1,h2{margin-top:30px;margin-bottom:0px}h3{margin-top:10px;margin-bottom:0px}h4,h5,h6{margin-top:5px;margin-bottom:30px}h6{font-weight:400}h1,.h1{font-size:35px}h2,.h2{font-size:30px}h3,.h3{font-size:20px;color:#1abc9c}h4,.h4{font-size:29px}h5,.h5{font-size:12px;color:#95a5a6}h6,.h6{font-size:24px}p{margin:-1 0 15px;font-size:12px;line-height:1.72222}
+
+
+
+
+
+
+
+
+
